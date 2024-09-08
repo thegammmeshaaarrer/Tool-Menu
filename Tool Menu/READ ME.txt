@@ -1,0 +1,1 @@
+put in the ips and stuff where the [] are when you edit the Batch file. Delete the [] afterwards because it will cause Problems. (I was too lazy to program a better method of entering the ips lol)
