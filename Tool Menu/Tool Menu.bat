@@ -63,7 +63,7 @@ start msgbox.vbs
 
 Color 0a
 
-ping 81.169.145.72 -n 10 -l 1000
+ping [IP] -n 10 -l 1000
 
 echo thanks for using this project I programmed in just some minutes.
 
@@ -85,7 +85,7 @@ goto c
 )
 :o
 echo Traceroute initiated...
-TRACERT 81.169.145.72
+TRACERT [ip]
 
 pause
 cls
